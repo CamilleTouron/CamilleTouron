@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamilleTouron
 - 👀 I’m interested in development.
-- 🌱 I’m currently learning wordpress.
+- 🌱 I’m currently learning java.
 - 📫 How to reach me : camille.touron.pro@gmail.com
 
 <!---
