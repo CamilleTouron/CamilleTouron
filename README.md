@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamilleTouron
 - 👀 I’m interested in development.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently working for Capgemini.
 - 📫 How to reach me : camille.touron.pro@gmail.com
 
 <!---
